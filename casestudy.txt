@@ -1,0 +1,23 @@
+A multinational company named Fabrikam having multiple offices all over the world want to build
+as well as host Information Management Solutions in web.The organisation has total 24 offices all
+over the world.Besides building and hosting Information Management Solutions it also want host 
+internet public web site for their potential customers in order to provide them products 
+information with online shopping experience.
+To serve this purpose organisation needs to build and host intranet for all employes to access 
+Feedback Management Sostem and Leave Management related information.
+Fabrikam uses Amazon Webservices cloud Subscription to use it as infrastructure as a service (l-a-a-s).
+the company wants either public cloud Google Platform or Aws to Build And Host the Information System.
+
+
+*Functional Requirements-
+1.User should View Product info.
+2.User be able to purchase product.
+3.User should be able to give feedback.
+4.Including above operations Admin Should be able to add products.
+5.Admin should be able to remove product.
+
+
+*Non-Functional Requirements-
+1.Large Storage- Software should have capacity of storing atleast 20,000 record in database.
+2.Security- A system should provide security for login so that data cannot be breached.
+3.Multiple Users- A software should allow multiple users to use the site at the same time.      
